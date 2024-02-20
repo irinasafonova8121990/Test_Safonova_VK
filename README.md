@@ -55,7 +55,7 @@
 Выбранные средства должны быть подключены к Kubernetes.
 ## Смотрите также
 * [Официальная документация Kubernetes](https://kubernetes.io/docs/home/)
-* [Официальная документация] (https://docs.openstack.org/2023.2/)
+* [Официальная документация OpenStack](https://docs.openstack.org/2023.2/)
 * [Официальная документация Prometheus](https://prometheus.io/docs/introduction/overview/)
 * [Официальная документация Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 * [Официальная документация Custom Metrics](https://docs.datadoghq.com/metrics/custom_metrics/)

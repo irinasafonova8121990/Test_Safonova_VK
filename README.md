@@ -21,13 +21,11 @@
 Дополнительно можно использовать следующие средства:
 | Средство | Назначение | Ссылка на сайт вендора
 |---	|--- |
-| Alertmanager|    |
+| Alertmanager|  Компонент Prometheus. Компонент обрабатывает оповещения, отправляемые сервером Prometheus, и отправляет уведомления в соответствии с настройками маршрутизации.  |
 | Custom Metrics |    | 
 | Elastic Stack (ELK Stack)|    | 
 | Grafana |    | 
-| Kubernetes Events|    | 
-| Metrics Server   |    |
-| Kubernetes Events|    |
-| Prometheus  |    |
-|     |    |
-|     |    |
+| Kubernetes Events |    | 
+| Metrics Server    |    |
+| Kubernetes Events |    |
+| Prometheus  |     |

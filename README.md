@@ -2,7 +2,7 @@
 ## Назначение инструкции
 Цель инструкции — пояснение процесса и методов диагностики ошибок при создании кластера Kubernetes с использованием веб-интерфейса и инструментов, таких как консоль разработчика, объекты magnum и heat в OpenStack. Инструкция состоит из:
 * [глоссария](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%B3%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9),
-* [описания настройки кластера Kubernetes](
+* [описания настройки кластера Kubernetes](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D0%B2-kubernetes)
 * перечисления дополнительных средств для поиска и анализа ошибок в Kubernetes.
 ## Глоссарий
 |  Термин 	| Определение 	| 

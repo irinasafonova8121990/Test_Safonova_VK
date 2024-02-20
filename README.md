@@ -60,4 +60,6 @@
 * [Официальная документация Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 * [Официальная документация Custom Metrics](https://docs.datadoghq.com/metrics/custom_metrics/)
 * [Официальная документация ELK Stack](https://www.elastic.co/guide/index.html)
+* [Официальная документация Grafana](https://grafana.com/docs/)
 * [Официальная документация Kubernetes Events](https://github.com/kubernetes-sigs/metrics-server)
+* [Официальная документация Metrics Server](https://github.com/kubernetes-sigs/metrics-server)

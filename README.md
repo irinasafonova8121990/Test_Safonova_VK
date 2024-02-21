@@ -4,7 +4,7 @@
 * [глоссария](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%B3%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9),
 * [описания взаимодействия Kubernetes и OpenStack](https://github.com/irinasafonova8121990/Test_Safonova_VK#%D0%BA%D0%B0%D0%BA-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%82-kubernetes-%D0%B8-openstack),
 * [описания настройки кластера Kubernetes](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D0%B2-kubernetes),
-* [перечисления дополнительных средств для поиска и анализа ошибок в Kubernetes (https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D0%B8-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%B2-kubernetes).
+* [перечисления дополнительных средств для поиска и анализа ошибок в Kubernetes](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D0%B8-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%B2-kubernetes).
 
 При возникновении проблем с настройкой обратитесь в [техническую поддержку](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D1%83%D1%8E-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83).
 
@@ -134,6 +134,6 @@ spec:
 |  Канал 	| Информация 	
 |:---	|:--- 
 |**Портал** | https://support.mcs.mail.ru | 
-| **Бот** в ТГ | [@vk_tech_support_bot](https://t.me/vk_tech_support_bot)
+| **Бот в ТГ** | [@vk_tech_support_bot](https://t.me/vk_tech_support_bot)
 | **Почта** | support@mcs.mail.ru
 | **Телефон** | +7 (499) 350-97-03

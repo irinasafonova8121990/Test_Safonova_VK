@@ -45,21 +45,14 @@
 
 ## Дополнительные средства для поиска и анализа ошибок в Kubernetes
 Дополнительно можно использовать средства для поиска и анализа ошибок в Kubernetes.
-* **Prometheus**. Cистема мониторинга и оповещения с открытым исходным кодом, которая используется в Kubernetes. Система собирает метрики со всех узлов и подов в кластере м предоставляет язык запросов для их анализа.
-* **Alertmanager**. Компонент Prometheus. Компонент обрабатывает оповещения, отправляемые сервером Prometheus, и отправляет уведомления в соответствии с настройками маршрутизации.
-* **Custom Metrics**. Пользовательские метрики, которые можно собирать и экспонировать через специальные агенты или SDK.
-* **Elastic Stack (ELK Stack)**. Аббревиатура, используемая для описания стека из трех популярных проектов: Elasticsearch, Logstash и Kibana. Стек ELK (Elasticsearch) позволяет собирать журналы систем и И |приложений, анализировать их и создавать визуализации, чтобы мониторить приложения и инфраструктуры, быстрее устранять неполадки, анализировать систему безопасности и многое другое.
+* **Prometheus**. Cистема мониторинга и оповещения с открытым исходным кодом, которая используется в Kubernetes. Система собирает метрики со всех узлов и подов в кластере м предоставляет язык запросов для их анализа. Подробнее о работе с Prometheus в [официальной документации](https://prometheus.io/docs/introduction/overview/).
+* **Alertmanager**. Компонент Prometheus. Компонент обрабатывает оповещения, отправляемые сервером Prometheus, и отправляет уведомления в соответствии с настройками маршрутизации. Подробнее о работе с Prometheus в [официальной документации](https://prometheus.io/docs/alerting/latest/alertmanager/).
+* **Custom Metrics**. Пользовательские метрики, которые можно собирать и экспонировать через специальные агенты или SDK. Подробнее о работе с Custom Metrics в [официальной документации](https://docs.datadoghq.com/metrics/custom_metrics/).
+* **Elastic Stack (ELK Stack)**. Аббревиатура, используемая для описания стека из трех популярных проектов: Elasticsearch, Logstash и Kibana. Стек ELK (Elasticsearch) позволяет собирать журналы систем и И |приложений, анализировать их и создавать визуализации, чтобы мониторить приложения и инфраструктуры, быстрее устранять неполадки, анализировать систему безопасности и многое другое. Подробнее о работе с  ELK Stack в [официальной документации](https://www.elastic.co/guide/index.html).
 * **Grafana**. Свободная программная система визуализации данных, ориентированная на данные систем ИТ-мониторинга. Реализована как веб-приложение в стиле «приборных панелей» с диаграммами, графиками, таблицами, предупреждениями. Подробнее о работе с Grafana в [официальной документации](https://grafana.com/docs/).
-* **Kubernetes Events**. Функционал, позволяющий просматривать события в Kubernetes. Функционал вызывается по команде `kubectl get events`.
+* **Kubernetes Events**. Функционал, позволяющий просматривать события в Kubernetes. Функционал вызывается по команде `kubectl get events`. Подробнее о работе с  Kubernetes Events в [официальной документации](https://kubernetes.io/docs/reference/kubernetes-api/cluster-resources/event-v1/).
 * **Metrics Server**. Установленный по умолчанию сервис в Kubernetes. Сервис обирает метрики из `Kubelets` и экспонирует их через Kubernetes API для использования Horizontal Pod Autoscaler и других инструментов.
-Выбранные средства должны быть подключены к Kubernetes.
+Выбранные средства должны быть подключены к Kubernetes. Подробнее о работе с Metrics Server в [официальной документации](https://github.com/kubernetes-sigs/metrics-server).
 ## Смотрите также
 * [Официальная документация Kubernetes](https://kubernetes.io/docs/home/)
 * [Официальная документация OpenStack](https://docs.openstack.org/2023.2/)
-* [Официальная документация Prometheus](https://prometheus.io/docs/introduction/overview/)
-* [Официальная документация Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)
-* [Официальная документация Custom Metrics](https://docs.datadoghq.com/metrics/custom_metrics/)
-* https://grafana.com/docs/grafana/latest/
-* [Официальная документация ELK Stack](https://www.elastic.co/guide/index.html)
-* [Официальная документация Kubernetes Events](https://github.com/kubernetes-sigs/metrics-server)
-* [Официальная документация Metrics Server](https://github.com/kubernetes-sigs/metrics-server)

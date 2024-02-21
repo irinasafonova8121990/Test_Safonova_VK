@@ -77,4 +77,5 @@ Kubernetes и OpenStack — две различные, но взаимодопо
 | Бот в ТГ | @vk_tech_support_bot
 | Почта | support@mcs.mail.ru
 | Телефон | +7 (499) 350-97-03
+
 Каналы связи круглосуточные.

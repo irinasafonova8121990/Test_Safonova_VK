@@ -83,7 +83,7 @@ Kubernetes и OpenStack — две различные, но взаимодопо
 Подать обращение в техническую поддержку можно по доступным круглосуточным каналам связи:
 |  Канал 	| Информация 	
 |:---	|:--- 
-|Портал | https://support.mcs.mail.ru | 
-| Бот в ТГ | [@vk_tech_support_bot](https://t.me/vk_tech_support_bot)
-| Почта | support@mcs.mail.ru
-| Телефон | +7 (499) 350-97-03
+|**Портал** | https://support.mcs.mail.ru | 
+| **Бот** в ТГ | [@vk_tech_support_bot](https://t.me/vk_tech_support_bot)
+| **Почта** | support@mcs.mail.ru
+| **Телефон** | +7 (499) 350-97-03

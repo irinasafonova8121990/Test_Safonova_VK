@@ -94,15 +94,12 @@ metadata:
 spec:
   hard:
     requests.cpu: "1"
-    requests.memory: 1Gi
-    limits.cpu: "2"
-    limits.memory: 2Gi
-    pods: "10"
-    services: "5"
+    requests.memory: 2Gi
+    limits.memory: 1Gi
+    pods: "5"
+    services: "2"
     services.loadbalancers: "2"
-    replicationcontrollers: "4"
-    secrets: "10"
-    configmaps: "10"
+    secrets: "6"
 ```
 5. Примените изменения квот.
 6. Проверьте обновленные квоты.

@@ -83,11 +83,11 @@ Kubernetes и OpenStack — две различные, но взаимодопо
 ```
 3. Просмотрите детали существующей квоты по команде:
  ```bash
-   kubectl describe resourcequota <quota-name> -n <your-namespace>
+   kubectl describe resourcequota <quota-name> -n <namespace_test>
    ```
 5. Откройте конфигурацию квоты по команде:
 ```bash
-   kubectl edit resourcequota <quota-name> -n <your-namespace>
+   kubectl edit resourcequota <quota-name> -n <namespace_test>
 ```
 6. Измените параметры квоты.
 

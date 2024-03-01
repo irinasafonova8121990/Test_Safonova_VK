@@ -114,10 +114,10 @@ apiVersion: v1
 kind: ResourceQuota
 metadata:
   name: my-quota
-  namespace: my-namespace
+  namespace: namespace_test
 spec:
   hard:
-    requests.cpu: "1"
+    requests.cpu: "2"
     requests.memory: 2Gi
     limits.memory: 1Gi
     pods: "5"

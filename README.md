@@ -1,4 +1,4 @@
-# Test_Safonova_VK (OpenStack)
+# Test_Safonova (OpenStack)
 ## Назначение инструкции
 Цель инструкции — пояснение процесса и методов диагностики ошибок при создании кластера Kubernetes с использованием веб-интерфейса и инструментов, например, консоли разработчика, объектов magnum и heat в OpenStack. Инструкция состоит из:
 * [глоссария](https://github.com/irinasafonova8121990/Test_Safonova_VK/blob/main/README.md#%D0%B3%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9),
@@ -152,7 +152,6 @@ spec:
 Подать обращение в техническую поддержку можно по доступным круглосуточным каналам связи:
 |  Канал 	| Информация 	
 |:---	|:--- 
-|**Портал** | https://support.mcs.mail.ru | 
-| **Бот в ТГ** | [@vk_tech_support_bot](https://t.me/vk_tech_support_bot)
-| **Почта** | support@mcs.mail.ru
-| **Телефон** | +7 (499) 350-97-03
+|**Портал** | https://support.mts.ru/ |
+| **Почта** | support@support.mts.ru/ |
+| **Телефон** |  + 7 (800) 250-08-90 |

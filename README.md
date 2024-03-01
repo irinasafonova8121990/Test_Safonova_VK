@@ -79,7 +79,7 @@ Kubernetes и OpenStack — две различные, но взаимодопо
 ### Как изменить квоты?
 1. Получите список текущих квот по команде:
 ```bash
-   kubectl get resourcequota -n <your-namespace>
+   kubectl get resourcequota -n <namespace_test>
 ```
 2. Просмотрите детали существующей квоты по команде:
  ```bash
